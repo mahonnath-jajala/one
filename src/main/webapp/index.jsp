@@ -776,8 +776,8 @@
             {
                 id: 3,
                 title: 'Apple Watch Series 8',
-                price: 349,
-                oldPrice: 399,
+                price: 699,
+                oldPrice: 899,
                 rating: 5,
                 reviews: 214,
                 badge: '-25%',
